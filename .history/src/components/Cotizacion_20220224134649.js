@@ -36,4 +36,4 @@ const Cotizacion = ({resultado}) => {
     );
 }
 
-export default Cotizacion; 
+export default Cotizacion;
